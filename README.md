@@ -4,6 +4,7 @@
 
 This is a SQL-based data analysis project focused on analyzing pizza sales data to identify revenue-driving products, customer ordering patterns, category performance, and opportunities for improving business decisions using SQL.
 
+
 ---
 
 ## Problem Statement
@@ -19,9 +20,12 @@ The dataset consists of four tables:
 - orders : order_id, order_date, order_time  
 - order_details : order_details_id, order_id, pizza_id, quantity  
 - pizzas : pizza_id, pizza_type_id, size, price  
-- pizza_types : pizza_type_id, name, category, ingredients
-- 
----
+- pizza_types : pizza_type_id, name, category, ingredients  
+
+The dataset was used to analyze sales performance, customer ordering patterns, pizza category trends, and revenue contribution using SQL queries.
+
+```
+
 ## Analysis Performed
 
 The project includes analysis on:
@@ -66,6 +70,12 @@ The project includes analysis on:
 
 ---
 
+## Tools Used
+
+- MySQL
+
+---
+
 ## Special Thanks and Credits
 
 This is a guided project using a dataset and learning content from Ayushi Jain at WsCube Tech.
@@ -76,6 +86,7 @@ Special thanks to Ayushi Jain and WsCube Tech for providing the guidance and lea
 
 Thank you for your time and support.
 
----
+## Further Details
 
-[Guided Project Link](https://www.youtube.com/watch?v=zZpMvAedh_E)
+Guided Project Link : https://www.youtube.com/watch?v=zZpMvAedh_E
+
