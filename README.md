@@ -24,7 +24,7 @@ The dataset consists of four tables:
 
 The dataset was used to analyze sales performance, customer ordering patterns, pizza category trends, and revenue contribution using SQL queries.
 
-```
+---
 
 ## Analysis Performed
 
@@ -88,5 +88,5 @@ Thank you for your time and support.
 
 ## Further Details
 
-Guided Project Link : https://www.youtube.com/watch?v=zZpMvAedh_E
+[Guided Project Link](https://www.youtube.com/watch?v=zZpMvAedh_E)
 
