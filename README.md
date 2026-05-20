@@ -1,17 +1,8 @@
 # Pizza Sales Analysis Using SQL
 
-## Project Overview
-
-This is a SQL-based data analysis project focused on analyzing pizza sales data to identify revenue-driving products, customer ordering patterns, category performance, and opportunities for improving business decisions using SQL.
-
-
----
-
 ## Problem Statement
 
-Analyze pizza sales data to identify revenue-driving products, customer ordering patterns, category performance, and opportunities for improving business decisions using SQL-based data analysis.
-
----
+Analyze pizza sales data using SQL to uncover revenue-driving products, measure category performance, and support business optimization through data-driven insights.
 
 ## Dataset Description
 
@@ -22,10 +13,6 @@ The dataset consists of four tables:
 - pizzas : pizza_id, pizza_type_id, size, price  
 - pizza_types : pizza_type_id, name, category, ingredients  
 
-The dataset was used to analyze sales performance, customer ordering patterns, pizza category trends, and revenue contribution using SQL queries.
-
----
-
 ## Analysis Performed
 
 The project includes analysis on:
@@ -34,13 +21,10 @@ The project includes analysis on:
 - Best-selling pizzas
 - Revenue by pizza category
 - Revenue by pizza size
-- Order quantity analysis
+- Peak order hours
 - Category-wise performance
 - Top and low-performing pizzas
-- Customer ordering patterns
 - Additional exploratory business questions for deeper insights
-
----
 
 ## Key Insights
 
@@ -54,8 +38,6 @@ The project includes analysis on:
 
 - Some pizza-size combinations recorded zero sales and may require review or removal from the menu.
 
----
-
 ## Recommendations
 
 - Selling more Classic pizzas by giving simple combo offers and discounts can be a good option because people already like them.
@@ -67,14 +49,6 @@ The project includes analysis on:
 - Encouraging customers to buy large-size pizzas can help increase revenue since they contribute the most sales.
 
 - Removing or changing pizzas with no sales can help make the menu better and more efficient.
-
----
-
-## Tools Used
-
-- MySQL
-
----
 
 ## Special Thanks and Credits
 
