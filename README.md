@@ -50,8 +50,6 @@ The project includes analysis on:
 
 - Removing or changing pizzas with no sales can help make the menu better and more efficient.
 
-## Special Thanks and Credits
-
 ## Acknowledgements
 
 Special thanks to **Ayushi Jain** and **WsCube Tech** for the guided project resources and learning support that inspired this analysis.
