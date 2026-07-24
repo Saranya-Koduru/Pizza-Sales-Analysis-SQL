@@ -52,15 +52,11 @@ The project includes analysis on:
 
 ## Special Thanks and Credits
 
-This is a guided project using a dataset and learning content from **Ayushi Jain** at **WsCube Tech**.
+## Acknowledgements
 
-Along with the guided business questions, additional self-exploratory analysis questions were created to improve the depth of analysis and derive deeper insights and recommendations.
+Special thanks to **Ayushi Jain** and **WsCube Tech** for the guided project resources and learning support that inspired this analysis.
 
-Special thanks to Ayushi Jain and WsCube Tech for providing the guidance and learning support for this project.
+Additional exploratory analysis, business questions, and insights were independently developed to enhance the depth of this project.
 
-Thank you for your time and support.
-
-## Further Details
-
-[Guided Project Link](https://www.youtube.com/watch?v=zZpMvAedh_E)
+[Guided Project Video](https://www.youtube.com/watch?v=zZpMvAedh_E)
 
